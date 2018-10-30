@@ -3,7 +3,7 @@ package com.company.seive;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-public class Main
+public class Seive
 {  static boolean a[];
     public static void seive(){
         a=new boolean[10001];
